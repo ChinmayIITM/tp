@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic physical scene of a tailor carefully stitching an extremely tight and overly complex suit onto a mannequin with unnatural, exaggerated bumps and irregular shapes. The fabric clings perfectly to every tiny distortion of the mannequin. In the background, a simple, clean, well-fitted suit hangs on a rack. The setting is a traditional tailoring workshop with natural lighting, wooden textures, and realistic materials. No text, no labels, no diagrams. Highly detailed, cinematic, photorealistic.",
+  "model": "DALL-E 3",
+  "concept": "Overfitting",
+  "metaphor": "A suit perfectly tailored to an irregular mannequin represents fitting noise; the simple suit represents generalization."
+}
