@@ -1,0 +1,7 @@
+{
+  "prompt": "A realistic night-time bedroom scene during an extreme heatwave. A person lies awake in bed, visibly uncomfortable and sweating, with a fan running but clearly ineffective. The bedsheet is crumpled and pushed aside. A window is open but warm air flows in. A nearly empty water bottle sits nearby. The lighting is dim and warm, emphasizing discomfort and restlessness. The scene feels suffocating and oppressive. No text, no charts, no labels. Highly detailed, cinematic, photorealistic.",
+  "model": "DALL-E 3",
+  "dataset_name": "Global Surface Temperature Anomalies (NASA GISTEMP)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Rising global temperatures are making extreme heat more frequent and unbearable."
+}
